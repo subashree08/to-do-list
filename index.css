@@ -1,0 +1,19 @@
+:root{
+    --1purple:#420516;
+    --2purple:#7D1935;
+    --3purple:#B42B51;
+    --4purple:#E63E6D;
+}
+@font-face {
+    font-family: christmas;
+    src: url(fonts/PWHappyChristmas.ttf);
+}
+
+body{
+    background: var(--4purple);
+    color: black;
+}
+h1{
+    font-family: christmas;
+
+}
